@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/livewire-charts",
+    "name": "nbolink/livewire-charts",
     "description": "Livewire Charts",
     "keywords": [
         "asantibanez",
         "livewire-charts"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-charts",
+    "homepage": "https://github.com/nbolink/livewire-charts",
     "license": "MIT",
     "type": "library",
     "authors": [
